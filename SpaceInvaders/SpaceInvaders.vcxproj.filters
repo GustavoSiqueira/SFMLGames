@@ -25,5 +25,8 @@
     <CopyFileToFolders Include="sfml-graphics-2.dll" />
     <CopyFileToFolders Include="sfml-system-2.dll" />
     <CopyFileToFolders Include="sfml-window-2.dll" />
+    <CopyFileToFolders Include="Assets\Player.png">
+      <Filter>Resource Files</Filter>
+    </CopyFileToFolders>
   </ItemGroup>
 </Project>
