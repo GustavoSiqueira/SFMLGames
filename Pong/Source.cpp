@@ -8,7 +8,7 @@
 
 sf::Vector2f viewSize(1024, 768);
 sf::VideoMode vm(viewSize.x, viewSize.y);
-sf::RenderWindow window(vm, "Squares", sf::Style::Titlebar);
+sf::RenderWindow window(vm, "Pong", sf::Style::Titlebar);
 
 sf::RectangleShape player;
 sf::RectangleShape enemy;
